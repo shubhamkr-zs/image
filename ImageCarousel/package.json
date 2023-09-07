@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "name": "image-carousel",
+  "styles": [
+    {
+      "name": "Zoom - Image Carousel",
+      "id": "default",
+      "icon": "/static/zoom_carousal.jpg"
+    }
+  ],
+  "customizable": true,
+  "groupId": 5
+}
